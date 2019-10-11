@@ -1,7 +1,9 @@
 <<<<<<< HEAD
-# arcnc-backend
+# Backend Nodejs
 Arcnc - Reserva de Spots
-=======
-# backend-arcnc
-Backend Nodejs Arcnc
->>>>>>> 6ccbc438688d39943e4b8703ce2af05190697a94
+
+Mobile using React Native: https://github.com/devadilson/airCnC-mobile
+
+Backend: https://github.com/devadilson/airCnC-backend
+
+Frontend Web: https://github.com/devadilson/airCnC-frontend
